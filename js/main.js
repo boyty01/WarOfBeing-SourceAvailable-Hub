@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>${plugin.description}</p>
                     <div class="links">
                         <a href="${plugin.githubUrl}" class="btn btn-primary">Source Code</a>
-                        <a href="${plugin.docsUrl}" class="btn btn-secondary">Documentation</a>
+                        <a href="${plugin.docsUrl}" class="btn btn-secondary"> ${plugin.docsUrl == "#" ? "Docs Pending" : "Documentation"}</a>
                     </div>
                 `;
                 grid.appendChild(card);
