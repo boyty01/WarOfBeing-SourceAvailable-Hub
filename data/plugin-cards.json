@@ -11,7 +11,7 @@
         "title": "Dynamic Quest System",
         "category": "Editor Extension / Custom Data Asset",
         "description": "Full, custom designer for creating objective based quests. Highly optimised and decoupled between Quest definition (design) and runtime instancing.  With support for completely custom objective types.",
-        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "githubUrl": "https://github.com/boyty01/DynamicQuestSystem",
         "docsUrl": "#",
         "status": "Beta"
     },
