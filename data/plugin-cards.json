@@ -3,8 +3,8 @@
         "title": "RPG Dialog System",
         "category": "Editor Extension / Custom Data Asset",
         "description": "Encapsulated Dialog tree design graph, with extensive support for common runtime events, including unique actor dialog state drivers, Quests, Inventory & more.",
-        "githubUrl": "",
-        "docsUrl": "#",
+        "githubUrl": "https://github.com/boyty01/RpgDialogSystem",
+        "docsUrl": "https://boyty01.github.io/RpgDialogSystem/",
         "status": "Beta"
     },
     {
@@ -19,16 +19,16 @@
         "title": "UI Mesh Renderer",
         "category": "Slate/UMG ",
         "description": "UMG Widget that renders any world Actor in its own, encapsulated window directly in the UMG widget, with scene lighting and transform control.",
-        "githubUrl": "https://github.com/youruser/landscape-plugin",
-        "docsUrl": "#",
+        "githubUrl": "https://github.com/boyty01/SlateMeshRenderer",
+        "docsUrl": "https://github.com/boyty01/SlateMeshRenderer",
         "status": "Beta"
     },
     {
         "title": "World Definition",
         "category": "Other",
         "description": "Experimental system that allows actors to declare a category and custom data to be packed in a central data asset directly from the editor. Designers can traverse an array of levels directly from the designer, potentially rebuilding the data asset for the entire game in one click. This is used internally for decoupling quest objective definitions from entity world data, automating a lot of repetitive tasks when designing quests and other systems that need 3D transform data or other actor instance data.",
-        "githubUrl": "https://github.com/youruser/landscape-plugin",
-        "docsUrl": "#",
+        "githubUrl": "https://github.com/boyty01/WorldDefinition",
+        "docsUrl": "https://github.com/boyty01/WorldDefinition",
         "status": "Experimental"
     },
     {
@@ -51,8 +51,8 @@
         "title": "DMT Save System",
         "category": "Save Games",
         "description": "World Partition supported save/loading framework that delegates the packing and unpacking of save data to the actor class itself. This plugin handles all of the dirty work between actors popping in and out throughout level streaming, and editor placed actors moving too far from their streaming cell.",
-        "githubUrl": "https://github.com/youruser/landscape-plugin",
-        "docsUrl": "#",
+        "githubUrl": "https://github.com/boyty01/DMTSaveSystem",
+        "docsUrl": "https://github.com/boyty01/DMTSaveSystem",
         "status": "wip"
     },
     {
