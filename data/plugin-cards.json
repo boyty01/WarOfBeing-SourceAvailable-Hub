@@ -53,7 +53,7 @@
         "description": "World Partition supported save/loading framework that delegates the packing and unpacking of save data to the actor class itself. This plugin handles all of the dirty work between actors popping in and out throughout level streaming, and editor placed actors moving too far from their streaming cell.",
         "githubUrl": "https://github.com/youruser/landscape-plugin",
         "docsUrl": "#",
-        "status": "Experimental"
+        "status": "wip"
     },
     {
         "title": "Player Camera Animator",
@@ -69,7 +69,7 @@
         "description": "AI pathing and scripting system. Includes a custom scripting system that ties into Sight, Hearing and Damage stimuli, and a custom AI Node system that allows for more specific pathing on top of NavMesh, with event driven actions applicable when arriving at a node (i.e. trigger a door opening, play an animation etc.). ",
         "githubUrl": "https://github.com/youruser/landscape-plugin",
         "docsUrl": "#",
-        "status": "Beta"
+        "status": "Experimental"
     },
     {
         "title": "DMT Loading Screen Manager",
@@ -77,7 +77,7 @@
         "description": "Subsystem for handling level transitions while setting up the loading screen overlay between the transition. Supports hard loading (new world transition) and soft loading (Moving to an unloaded cell in world partition). Currently still in development!  ",
         "githubUrl": "https://github.com/youruser/landscape-plugin",
         "docsUrl": "#",
-        "status": "Experimental"
+        "status": "wip"
     },
     {
         "title": "Wob Soundtrack System",
