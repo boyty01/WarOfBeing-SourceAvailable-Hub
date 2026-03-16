@@ -1,0 +1,90 @@
+[
+    {
+        "title": "RPG Dialog System",
+        "category": "Editor Extension / Custom Data Asset",
+        "description": "Encapsulated Dialog tree design graph, with extensive support for common runtime events, including unique actor dialog state drivers, Quests, Inventory & more.",
+        "githubUrl": "",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "Dynamic Quest System",
+        "category": "Editor Extension / Custom Data Asset",
+        "description": "Full, custom designer for creating objective based quests. Highly optimised and decoupled between Quest definition (design) and runtime instancing.  With support for completely custom objective types.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "UI Mesh Renderer",
+        "category": "Slate/UMG ",
+        "description": "UMG Widget that renders any world Actor in its own, encapsulated window directly in the UMG widget, with scene lighting and transform control.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "World Definition",
+        "category": "Other",
+        "description": "Experimental system that allows actors to declare a category and custom data to be packed in a central data asset directly from the editor. Designers can traverse an array of levels directly from the designer, potentially rebuilding the data asset for the entire game in one click. This is used internally for decoupling quest objective definitions from entity world data, automating a lot of repetitive tasks when designing quests and other systems that need 3D transform data or other actor instance data.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Experimental"
+    },
+    {
+        "title": "Ambience Subsystem",
+        "category": "Audio/Subsystems",
+        "description": "World Subsystem that provides an easy-to-grab audio component from anywhere to play 2D ambient audio in a level.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "Wob Common UI Extension",
+        "category": "UMG/Common UI",
+        "description": "War of Beings Common UI extension provides UI layer control for common UI workflows. Allows designers to define UI layers (stacks) for layering active widgets in hierarchy.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "DMT Save System",
+        "category": "Save Games",
+        "description": "World Partition supported save/loading framework that delegates the packing and unpacking of save data to the actor class itself. This plugin handles all of the dirty work between actors popping in and out throughout level streaming, and editor placed actors moving too far from their streaming cell.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Experimental"
+    },
+    {
+        "title": "Player Camera Animator",
+        "category": "Camera",
+        "description": "Actor Component that handles and blends multiple vector curves onto the player camera for common events such as head bob, and shake events.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Experimental"
+    },
+    {
+        "title": "DMT AI V2",
+        "category": "AI / Pathing",
+        "description": "AI pathing and scripting system. Includes a custom scripting system that ties into Sight, Hearing and Damage stimuli, and a custom AI Node system that allows for more specific pathing on top of NavMesh, with event driven actions applicable when arriving at a node (i.e. trigger a door opening, play an animation etc.). ",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Beta"
+    },
+    {
+        "title": "DMT Loading Screen Manager",
+        "category": "UMG / Subsystems / Other",
+        "description": "Subsystem for handling level transitions while setting up the loading screen overlay between the transition. Supports hard loading (new world transition) and soft loading (Moving to an unloaded cell in world partition). Currently still in development!  ",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "Experimental"
+    },
+    {
+        "title": "Wob Soundtrack System",
+        "category": "Audio / Subsystems",
+        "description": "Another subsystem for handling global audio, specifically for level BG Music. Originally developed to handle blending stems in advanced WWise style layering, Soundtrack is currently being redesigned to be more abstract and act as a generic central subsystem for handling bg music and fading between tracks.",
+        "githubUrl": "https://github.com/youruser/landscape-plugin",
+        "docsUrl": "#",
+        "status": "wip"
+    }
+]
