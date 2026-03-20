@@ -15,14 +15,14 @@
         "docsUrl": "#",
         "status": "Beta"
     },
-    {
-        "title": "UI Mesh Renderer",
-        "category": "Slate/UMG ",
-        "description": "UMG Widget that renders any world Actor in its own, encapsulated window directly in the UMG widget, with scene lighting and transform control.",
-        "githubUrl": "https://github.com/boyty01/SlateMeshRenderer",
-        "docsUrl": "#",
-        "status": "Beta"
-    },
+  {
+    "title": "UI Mesh Renderer",
+    "category": "Slate/UMG ",
+    "description": "UMG Widget that renders any world Actor in its own, encapsulated window directly in the UMG widget, with scene lighting and transform control.",
+    "githubUrl": "https://github.com/boyty01/SlateMeshRenderer",
+    "docsUrl": "https://boyty01.github.io/SlateMeshRenderer/",
+    "status": "Beta"
+  },
     {
         "title": "World Definition",
         "category": "Other",
