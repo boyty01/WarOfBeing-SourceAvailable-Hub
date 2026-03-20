@@ -63,14 +63,14 @@
         "docsUrl": "#",
         "status": "Experimental"
     },
-    {
-        "title": "DMT AI V2",
-        "category": "AI / Pathing",
-        "description": "AI pathing and scripting system. Includes a custom scripting system that ties into Sight, Hearing and Damage stimuli, and a custom AI Node system that allows for more specific pathing on top of NavMesh, with event driven actions applicable when arriving at a node (i.e. trigger a door opening, play an animation etc.). ",
-        "githubUrl": "https://github.com/boyty01/DMT_AI_V2",
-        "docsUrl": "#",
-        "status": "Experimental"
-    },
+  {
+    "title": "DMT AI V2",
+    "category": "AI / Pathing",
+    "description": "AI pathing and scripting system. Includes a custom scripting system that ties into Sight, Hearing and Damage stimuli, and a custom AI Node system that allows for more specific pathing on top of NavMesh, with event driven actions applicable when arriving at a node (i.e. trigger a door opening, play an animation etc.). ",
+    "githubUrl": "https://github.com/boyty01/DMT_AI_V2",
+    "docsUrl": "https://boyty01.github.io/DMT_AI_V2/",
+    "status": "Experimental"
+  },
     {
         "title": "DMT Loading Screen Manager",
         "category": "UMG / Subsystems / Other",
